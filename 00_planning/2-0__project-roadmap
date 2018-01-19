@@ -1,20 +1,22 @@
 CURRENT ISSUES:
 Image Capture:
   AMD w.i.p
-  Nvidia use NvIFR (windowed), NvFBC (fullscreen)
+  (Nvidia to use NvIFR (windowed), NvFBC (fullscreen))
 
 UI Overlay needs to be disabled
   use gta modmenu, disable ui etc.
   
 Further FPS improvement
-  disable pedestrians & foliage. lower population randomness
+  mod: disable pedestrians & foliage. lower population randomness
   template for graphical settings
 
 
-UPCOMING ISSUES:
-We need a language to start the AI
-We need an AI
-We need a better AI
-The AI is shit
+_UPCOMING ISSUES:
+a language to start AI
+an AI
+a better AI
+the AI is shit
 There is no water
 They figured this out in 1985...
+
+---
