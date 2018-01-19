@@ -1,0 +1,17 @@
+CURRENT ISSUES:
+Image Capture:
+  AMD w.i.p
+  Nvidia use NvIFR (windowed), NvFBC (fullscreen)
+
+UI Overlay needs to be disabled
+  use gta modmenu, disable ui etc.
+  
+Further FPS improvement
+  disable pedestrians & foliage. lower population randomness
+  template for graphical settings
+
+
+UPCOMING ISSUES:
+The AI is shit
+There is no water
+This has been possible since the 80s
